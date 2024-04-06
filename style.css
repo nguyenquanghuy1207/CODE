@@ -231,5 +231,10 @@ a {
 
 /*# sourceMappingURL=style.css.map */
 .test_commit_one {
+  color: green;
+}
+
+/*# sourceMappingURL=style.css.map */
+.test_commit_three {
   color: red;
 }
