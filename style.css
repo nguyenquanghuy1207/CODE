@@ -228,21 +228,3 @@ a {
 .btn--primary.has-shadow {
   box-shadow: 0 10px 35px -10px #ea1b2d;
 }
-
-/*# sourceMappingURL=style.css.map */
-.test_commit_one {
-  color: blue;
-}
-
-/*# sourceMappingURL=style.css.map */
-.test_commit_three {
-  color: red;
-}
-
-.test_commit_four {
-  color: yellow;
-}
-
-.test_commit_five {
-  color: violet;
-}
